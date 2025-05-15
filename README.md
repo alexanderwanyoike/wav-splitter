@@ -74,7 +74,7 @@ To run the WAV Splitter application:
 
 2. Run the main script:
    ```
-   python split_wav_gui.py
+   python ./src/split_wav_gui.py
    ```
 
 3. Use the graphical interface to:
